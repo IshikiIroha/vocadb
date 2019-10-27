@@ -1,30 +1,52 @@
 ﻿1.nyanyannya
-	シスター=セクトルージュ(修女=胭脂派)	luka/快速戏剧风	现期(2016)		LUKA十周年专辑曲
+	シスター=セクトルージュ(修女=胭脂派)	luka/快速戏剧风		现期(2016)		LUKA十周年专辑曲
 2.Caz
-	Corruption Garden			luka/快速摇滚	早期(2010)		LUKA十周年专辑曲
+	Corruption Garden			luka/快速摇滚		早期(2010)		LUKA十周年专辑曲
 3.無力P
-	Flightless bird			luka/偏快摇滚	早期(2010)		LUKA十周年专辑曲
+	Flightless bird			luka/偏快摇滚		早期(2010)		LUKA十周年专辑曲
 4.トラボルタ
-	トエト				luka/中速童谣风	早期(2009)		LUKA十周年专辑曲
+	トエト				luka/中速童谣风		早期(2009)		LUKA十周年专辑曲
 5.emon
-	どりーみんチュチュ			luka/中速可爱风	中期(2014)		MM名曲/LUKA十周年专辑曲
+	どりーみんチュチュ			luka/中速可爱风		中期(2014)		MM名曲/LUKA十周年专辑曲
 6.ハヤシケイ
-	巡る日々の中に			luka/稍慢抒情	现期(2019)		LUKA十周年专辑曲
+	巡る日々の中に			luka/稍慢抒情		现期(2019)		LUKA十周年专辑曲
 7.ジミーサムP
-	Afterglow				luka/稍慢抒情	中期(2013)		LUKA十周年专辑曲
+	Afterglow				luka/稍慢抒情		中期(2013)		LUKA十周年专辑曲
 8.ゆよゆっぺ
-	Never Die				luka/中速抒情	现期(2019)		MM名曲/LUKA十周年专辑曲
+	Never Die				luka/中速抒情		现期(2019)		MM名曲/LUKA十周年专辑曲
 9.Dixie Flatline
-	Just Be Friends			luka/中速流行	早期(2009)		名曲/LUKA十周年专辑曲
+	Just Be Friends			luka/中速流行		早期(2009)		名曲/LUKA十周年专辑曲
 10.八王子P
-	Beautiful Nightmare			luka/偏快抒情电子	中期(2015)		LUKA十周年专辑曲
+	Beautiful Nightmare			luka/偏快抒情电子		中期(2015)		LUKA十周年专辑曲
 11.AVTechNO!
-	DYE				luka/快速电子	早期(2010)		LUKA十周年专辑曲
+	DYE				luka/快速电子		早期(2010)		LUKA十周年专辑曲
 12.sat(頑なP)
-	Femme Fatale			luka/偏快流行	中期(2011)		LUKA十周年专辑曲
+	Femme Fatale			luka/偏快流行		中期(2011)		LUKA十周年专辑曲
 13.otetsu
-	迷的サイバネティックス(迷的控制论)	luka/中速哥特风	早期(2009)		LUKA十周年专辑曲
+	迷的サイバネティックス(迷的控制论)	luka/中速哥特风		早期(2009)		LUKA十周年专辑曲
 14.ジミーサムP
-	メモリ				luka/中速抒情	现期(2019)		LUKA十周年专辑曲
+	メモリ				luka/中速抒情		现期(2019)		LUKA十周年专辑曲
 15.黒うさP
-	紅一葉(あかひとは)			luka/中速和风抒情	早期(2008)		LUKA十周年专辑曲
+	紅一葉(あかひとは)			luka/中速和风抒情		早期(2008)		LUKA十周年专辑曲
+16.八王子P x Giga
+	Gimme×Gimme			miku,rin/中速节奏电音	现期(2019)		プロジェクトセカイ主题曲
+17.ポリスピカデリー(Police Piccadilly)
+	キレキャリオン(Carryalion)		miku/快速摇滚		现期(2016)		MM19专辑曲
+18.Luna
+	メインキャラクター			len/快速摇滚		现期(2016)		MM19专辑曲
+19.森羅(shinra)
+	ある計画は今も密かに		miku/中速流行		现期(2019)		MM19专辑曲
+20.Heavenz
+	それがあなたの幸せとしても		luka/稍慢抒情		中期(2013)		MM19专辑曲
+21.田中B
+	深海シティアンダーグラウンド		rin/偏快摇滚		中期(2011)		MM19专辑曲
+22.アオトケイ  
+	ラムネイドブルーの憧憬		meiko/中速流行		现期(2017)		MM19专辑曲
+23.傘村トーク
+	僕が夢を捨てて大人になるまで		miku/稍慢抒情		现期(2018)		MM19专辑曲
+24.梅とら
+	SURVIVE				全員/偏快节奏流行		现期(2019)		MM19专辑曲
+25.和田たけあき
+	ブレス・ユア・ブレス		miku/中速流行		现期(2019)		MM19主题曲
+26.EasyPop
+	Jump for Joy			luka,miku/中速清新风	现期(2019)		LUKA十周年主题曲/MM19专辑曲
